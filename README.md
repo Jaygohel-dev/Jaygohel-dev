@@ -1,16 +1,162 @@
-## Hi there 👋
+<!-- Banner Section -->
+<a href="#" target="_blank" rel="noreferrer">
+    <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
+</a>
 
-<!--
-**Jaygohel-dev/Jaygohel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Heading Section -->
+<h1 align="center" id="h1">
+    Hello World 
+    <a href="#h1" target="_blank" rel="noreferrer">
+        <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" />
+    </a>, 
+    I'm Jay Gohel 
+    <a href="#h1" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" />
+    </a>
+</h1>
 
-Here are some ideas to get you started:
+<!-- Typing Animation Section -->
+<h2 align="center">
+    <a href="#h1">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+India+😊" alt="Aspiring Full-stack web developer" />
+    </a>
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats & Profile Visits -->
+<h3 align="right">
+    <a href="#-2" target="_blank" rel="noreferrer">
+        <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaygohel-dev&theme=dark" alt="mondalsurojit" />
+    </a>
+</h3>
+
+<h3 align="left">
+    <a href="#-2" target="_blank" rel="noreferrer">
+        <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
+    </a>
+</h3>
+
+<!-- About Me Section -->
+- 🌱 I’m currently learning **Fullstack web development**
+
+- 💬 Ask me about **Latest tech**
+
+- 🎓 **B.Tech-IT** Current **Pursing**
+
+
+<!-- Section Divider -->
+<h3 id="my-skills"><h3>
+<a href="#my-skills" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Section Divider" width="100%" />
+</a>
+
+<!-- Skills Section -->
+<h2 align="left">My Skills💻</h2>
+
+<!-- Coding Animation -->
+<a href="#my-skills" target="_blank" rel="noreferrer">
+    <img align="right" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="Just Me Coding:D" />
+</a>
+
+<!-- Programming Skills -->
+<strong align="left" id="programming">Programming</strong>
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="#my-skills" target="_blank" rel="noreferrer">
+                    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40" />
+                </a>
+            </th>
+            <th>
+                <a href="#my-skills" target="_blank" rel="noreferrer">
+                    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="40" height="40" />
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
+
+<!-- Development Skills -->
+<strong align="left" id="development">Development</strong>
+<table>
+    <thead>
+        <tr>
+            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/226/226269.png" alt="HTML5" width="32" height="32" /></a></th>
+            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="32" height="32" /></a></th>
+            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40" /></a></th>
+            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCg8JqsAywWcx9yXjTjj7b-E-nPKbASsjpg&usqp=CA" alt="JavaScript" width="35" height="35" /></a></th>
+            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="38" height="37" /></a></th>
+        </tr>
+    </thead>
+</table>
+
+<!-- Version Control -->
+<strong align="left">Version Control</strong>
+<table>
+    <thead>
+        <tr>
+            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a></th>
+        </tr>
+    </thead>
+</table>
+
+<!-- Familiar With -->
+<strong align="left">Familiar With</strong>
+<table>
+    <thead>
+        <tr>
+            <th><a href="#my-skills" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="40" height="40" /></a></th>
+        </tr>
+    </thead>
+</table>
+<br>
+
+<!-- Connect With Me Section -->
+<h2 align="left">Connect With Me🤝</h2>
+<table>
+    <thead>
+        <tr>
+            <th><a href="https://www.linkedin.com/in/jay-gohel-903a8a248/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a></th>
+            <th><a href="https://instagram.com/jaygohel03" target="_blank"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="Instagram" height="34" width="34" /></a></th>
+            <th><a href="mailto:goheljay105@gmail.com?subject=From%20GitHub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="36" width="34" /></a></th>
+        </tr>
+    </thead>
+</table>
+<br>
+
+
+<!-- Footer Section with Stats -->
+<h2 id="footer"></h2>
+<p>
+    <a href="#footer" target="_blank" rel="noreferrer">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaygohel-dev&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="Top Languages" />
+    </a>
+</p>
+
+<div>
+    <a href="#footer" target="_blank" rel="noreferrer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaygohel-dev&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="GitHub Stats" />
+    </a>
+</div>
+
+<!-- Section Divider -->
+<a href="#footer" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Section Divider" width="100%" />
+</a>
+
+<!-- Contribution Snake Animation -->
+<div>
+    <a href="#footer" target="_blank" rel="noreferrer">
+        <img align="center" src="githubgridsnake.svg" alt="Watch a snake eat my contribution activity🐍" />
+    </a>
+</div>
+
+<!-- Thank You Message -->
+<h3></h3>
+<div align="center">
+    <a href="#footer" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" />
+    </a> 
+    <strong>Thank you so much for coming here 🙏</strong>
+</div>
+
