@@ -29,7 +29,7 @@
     <a href="#-2" target="_blank" rel="noreferrer">
         <img src="https://komarev.com/ghpvc/?username=Jaygohel-dev&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
 </h3>
-<!-- About Me Section -->\
+<!-- About Me Section -->
         
 - 🌱 I’m currently learning **Full stack web development**
 
