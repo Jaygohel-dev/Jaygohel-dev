@@ -25,6 +25,7 @@
     <a href="#-2" target="_blank" rel="noreferrer">
         <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaygohel-dev&theme=dark" alt="jaygohel" /> 
 </h3>
+        
 <h3 align="left">
     <a href="#-2" target="_blank" rel="noreferrer">
         <img src="https://komarev.com/ghpvc/?username=Jaygohel-dev&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
