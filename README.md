@@ -17,8 +17,7 @@
 
 <!-- Typing Animation Section -->
 <h2 align="center">
-    <a href="#h1">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+India+😊" alt="Aspiring Full-stack web developer" />
+    <a href="#h1">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+India+😊" alt="Aspiring Full-stack web developer" />
 </h2>
 <!-- GitHub Stats & Profile Visits -->
 <h3 align="right">
