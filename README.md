@@ -4,6 +4,7 @@
 </p>
 
 <!-- Heading Section -->
+
 <h1 align="center">
   Hey there! 👋 I'm Jay Gohel  
   <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40">
@@ -17,6 +18,7 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Jaygohel-dev&color=blue&style=flat-square)
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **MERN Stack & DevOps**  
@@ -56,6 +58,13 @@
 
 ---
 
+### 💬 Ask Me About  
+- MERN Stack Development  
+- APIs & Backend with Node.js  
+- Git & Open Source Contributions
+
+---
+
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-gohel-903a8a248)  
@@ -69,6 +78,13 @@
 🔹 Looking for **freelance projects** & **collaborations**  
 🔹 Available for **MERN Stack roles**  
 📩 **Email me:** [jaygohel105@gmail.com](mailto:jaygohel105@gmail.com)
+
+---
+
+### 🎭 Did You Know?  
+- 🚀 I love solving coding challenges!  
+- 🎧 I code while vibing to Lofi music.  
+- 🍕 Pizza > Everything else.  
 
 ---
 
